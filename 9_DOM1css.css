@@ -1,0 +1,13 @@
+#div1{
+    height: 200px;
+    width: 100px;
+    background-color: cornflowerblue;
+    color: white;
+    border: 1px solid black;
+
+}
+
+.content{
+    background-color: blue;
+    color: white;
+}
